@@ -14,7 +14,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/chiranjeev9292/The-Spark-Foundation-Tasks-GRIPJUNE/blob/main/Task1(Prediction_using_Supervised_ML).ipynb)
 
 
-### # Task-1 : Prediction using Supervised ML (Level - Beginner)
+### Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
 1. Predict the percentage of marks of an student based on the number of study hours.
